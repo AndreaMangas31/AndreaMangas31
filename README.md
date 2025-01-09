@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AndreaMangas31
-- 👀 I’m interested in Game Design, UI/UX, Web Design
-- 🌱 I’m currently learning Multimedia Engineering
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in Web Development & Design, UI/UX, Gamme Design
+- 🌱 I am graduated in Multimedia Engineering
 - 📫 How to reach me andream3103@gmail.com
 
 <!---
