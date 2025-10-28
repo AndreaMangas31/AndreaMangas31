@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndreaMangas31
-- 👀 I’m interested in Web Development & Design, UI/UX, Gamme Design
+- 👀 I’m interested in Web Development & Design, UI/UX
 - 🌱 I am graduated in Multimedia Engineering
 - 📫 How to reach me andream3103@gmail.com
 
