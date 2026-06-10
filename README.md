@@ -27,7 +27,7 @@
 
 ✨ I enjoy transforming ideas into products, mentoring developers, and continuously improving both technology and team processes.
 
-📫 Reach me at: **[andream3103@gmail.com](mailto:andream3103@gmail.com)**
+📫 Reach me at: **[andrea.mangas3103@gmail.com](mailto:andrea.mangas3103@gmail.com)**
 
 <!---
 AndreaMangas31/AndreaMangas31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
