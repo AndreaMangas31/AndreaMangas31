@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Andrea Mangas
 
-💻 Frontend Tech Lead passionate about building intuitive, accessible, and scalable web applications.
+💻 Frontend Tech Lead and CTO passionate about building intuitive, accessible, and scalable web applications.
 
 🎨 I love combining development and design to create experiences that feel simple, interactive, and enjoyable for users.
 
